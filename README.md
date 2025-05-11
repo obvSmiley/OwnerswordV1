@@ -1,4 +1,4 @@
-Ein simples Plugin für ein OwnerSword 
+## Ein simples Plugin für ein OwnerSword 
 
 ## Features
 
