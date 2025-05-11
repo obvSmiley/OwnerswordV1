@@ -6,7 +6,7 @@
 
 ## Kompatibilität
 
-- **Minecraft Version**: 1.21.1
+- **Minecraft Version**: 1.21.1-1.21.4
 - **Server-Typ**: Spigot
 
 ##  Permissions
