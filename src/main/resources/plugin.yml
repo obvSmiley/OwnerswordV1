@@ -1,0 +1,13 @@
+name: OwnerSwordV1
+version: '1.0-SNAPSHOT'
+main: de.Smiley.ownerSwordV1.OwnerSwordV1
+api-version: '1.21'
+
+commands:
+  info:
+    description: Info
+    aliases:
+  ownersword:
+    description: Ownersword
+    aliases:
+
