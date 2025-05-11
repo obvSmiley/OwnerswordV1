@@ -1,6 +1,6 @@
 Ein simples Plugin für ein OwnerSword 
 
-## ⚔ Features
+## Features
 
 - Fügt ein **OwnerSchwert** hinzu
 
